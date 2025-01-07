@@ -1,2 +1,3 @@
 # RedEnvelope-Python
-uiautomator2 尝试微信自动抢红包
+
+使用uiautomator2 尝试完成微信自动抢红包
